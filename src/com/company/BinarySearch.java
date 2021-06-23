@@ -24,25 +24,25 @@
  ******************************************************************************/
 
 
-package com.company;
+		package com.company;
 import java.util.Arrays;
 import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
-/**
- *  The {@code BinarySearch} class provides a static method for binary
- *  searching for an integer in a sorted array of integers.
- *  <p>
- *  The <em>indexOf</em> operations takes logarithmic time in the worst case.
- *  <p>
- *  For additional documentation, see <a href="https://algs4.cs.princeton.edu/11model">Section 1.1</a> of
- *  <i>Algorithms, 4th Edition</i> by Robert Sedgewick and Kevin Wayne.
- *
- *  @author Robert Sedgewick
- *  @author Kevin Wayne
- */
-public class BinarySearch {
+	/**
+	 *  The {@code BinarySearch} class provides a static method for binary
+	 *  searching for an integer in a sorted array of integers.
+	 *  <p>
+	 *  The <em>indexOf</em> operations takes logarithmic time in the worst case.
+	 *  <p>
+	 *  For additional documentation, see <a href="https://algs4.cs.princeton.edu/11model">Section 1.1</a> of
+	 *  <i>Algorithms, 4th Edition</i> by Robert Sedgewick and Kevin Wayne.
+	 *
+	 *  @author Robert Sedgewick
+	 *  @author Kevin Wayne
+	 */
+	public class BinarySearch {
 
 	/**
 	 * This class should not be instantiated.
